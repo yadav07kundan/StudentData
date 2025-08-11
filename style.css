@@ -1,0 +1,30 @@
+div{
+    background-color: rgb(142, 227, 237);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+span{
+    color: red;
+}
+.itl{
+    font-style: italic;
+}
+img{
+    border: 2px solid;
+    padding-right: 90%;
+}
+table {
+    border-collapse: collapse;
+    width: 90%;
+}
+
+th, td {
+    border: 1px solid ;
+    padding: 10px;
+    text-align: left;
+}
+tr:hover {
+    background-color:#eaf4ff;
+}
